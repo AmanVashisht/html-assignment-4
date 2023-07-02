@@ -1,0 +1,13 @@
+3. What is web accessibility? List some of the assistive devices which play a major role in providing accessibility.
+
+Answer:
+
+Web accessibility is the design and development of websites and web applications so that people with disabilities can access and use them. This includes people with visual impairments, hearing impairments, motor impairments, cognitive impairments, and other disabilities.
+
+some of the assistive devices which play a major role in providing accessibility are
+
+1. Screen readers
+2. Screen magnifiers
+3. Keyboard emulators
+4. Speech-to-text software
+5. Braille displays

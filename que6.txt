@@ -1,0 +1,14 @@
+6. List any 5 semantic tags in HTML along with thier descriptions.
+
+Answer:
+5 semantic tags in HTML along with their descriptions:
+
+<header>: This tag defines the header of a web page. It is typically used to contain the title of the page, the navigation bar, and other important information.
+
+<nav>: This tag defines the navigation of a web page. It is typically used to contain links to other pages on the site, as well as links to external websites.
+
+<article>: This tag defines an independent section of content. It is typically used to contain articles, blog posts, or other self-contained pieces of content.
+
+<section>: This tag defines a section of content within a web page. It is typically used to group related content together, such as a collection of articles or a set of product listings.
+
+<aside>: This tag defines an aside, which is a piece of content that is related to the main content of a web page, but is not essential to it. Asides are typically used to contain sidebars, comments, or other supplementary information.

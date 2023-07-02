@@ -1,0 +1,14 @@
+1. List out the features of HTML5.
+
+Answer:
+Some of the most important features of HTML5 are:
+
+New semantic elements: HTML5 introduces a number of new semantic elements, such as header, footer, section, and article. These elements help to make web pages more accessible and easier to understand for both humans and machines.
+
+Audio and video: HTML5 introduces native support for audio and video, which means that you can embed these media types in your web pages without the need for third-party plugins.
+
+Canvas: HTML5 also introduces the canvas element, which is a powerful tool for creating dynamic and interactive graphics.
+
+Forms: HTML5 introduces a number of new features for forms, such as the ability to validate form input and the ability to submit forms using Ajax.
+
+Web Workers: HTML5 introduces web workers, which are a way to run code in the background. This can be useful for tasks that are CPU-intensive or that require long periods of time to complete.

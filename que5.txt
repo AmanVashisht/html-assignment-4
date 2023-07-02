@@ -1,0 +1,6 @@
+5. Write a short note on tab index.
+
+Answer:
+The tabindex attribute is an HTML attribute that specifies the order in which elements are focused when the user presses the Tab key. The tabindex attribute can be used to make web pages more accessible to people who use screen readers or other assistive technologies.
+
+The tabindex attribute can be used on any HTML element, but it is most commonly used on form elements, such as buttons, text fields, and checkboxes. The tabindex attribute can have a value from 0 to 32767. Elements with a higher tabindex value are focused first, followed by elements with a lower tabindex value.
